@@ -131,7 +131,7 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 - ☁️ [Appwrite](https://appwrite.io/)
 
 ## Contact
-For any questions or inquiries, please contact **mikhilofficial1020@gmail.com**.
+For any questions or inquiries, please contact **nikhilofficial1020@gmail.com**.
 
 ---
 
