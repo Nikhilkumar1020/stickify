@@ -131,10 +131,10 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 - ☁️ [Appwrite](https://appwrite.io/)
 
 ## Contact
-For any questions or inquiries, please contact **mehtayuvraj532@gmail.com**.
+For any questions or inquiries, please contact **mikhilofficial1020@gmail.com**.
 
 ---
 
 This README provides an overview of the project, instructions for getting started, and details about the project configuration. Feel free to customize it further based on your specific needs. 🚀
 ## Credits
-Made with ❤️ by **Yuvraj Mehta**
+Made with ❤️ by **Nikhil Kumar**
